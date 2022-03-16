@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/School/College/6th Semester/CS-480/IntroProject/dictNode.cpp
+dictNode.h
+D:/School/College/6th Semester/CS-480/IntroProject/dictNode.h
+
+D:/School/College/6th Semester/CS-480/IntroProject/dictNode.h
+
+D:/School/College/6th Semester/CS-480/IntroProject/dictionary.cpp
+dictionary.h
+D:/School/College/6th Semester/CS-480/IntroProject/dictionary.h
+
+D:/School/College/6th Semester/CS-480/IntroProject/dictionary.h
+dictNode.h
+D:/School/College/6th Semester/CS-480/IntroProject/dictNode.h
+iostream
+-
+fstream
+-
+cstring
+-
+vector
+-
+
+D:/School/College/6th Semester/CS-480/IntroProject/main.cpp
+dictionary.h
+D:/School/College/6th Semester/CS-480/IntroProject/dictionary.h
+
